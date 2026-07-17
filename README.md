@@ -5,7 +5,6 @@
 I am a mobile application developer specializing in **Flutter**, backed by a strong foundation in core software engineering principles and a deep academic background in **Artificial Intelligence, Machine Learning, and Computer Vision**. My passion lies at the intersection of clean UI/UX and intelligent backend logic—building cross-platform applications that don't just look great, but solve complex problems using smart data.
 
 - 🚀 **Core Focus:** Building robust, high-performance cross-platform mobile architectures using Flutter and Dart.
-- ⚙️ **Systems & OOP Foundations:** Leveraging deep training in **C, C++, and Java** for optimized memory management, data structures, and efficient hardware/system interaction.
 - 🧠 **AI & Deep Learning:** Deploying trained machine learning models and computer vision architectures (like image classification and object detection) out of the lab and directly to the palm of a user's hand.
 - 🌐 **Web Ecosystems:** Bridging applications toward full-stack ecosystems using a solid foundation in core web technologies (**HTML5, CSS3, JavaScript**).
 
