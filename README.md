@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Marios] 👋
 
 ### Mobile & Software Developer | Flutter Specialist | AI & Computer Vision Enthusiast
 
