@@ -28,4 +28,4 @@ I am a software engineering student passionate about building highly responsive 
 - 🧠 Connecting trained machine learning models to mobile interfaces for edge processing.
 - 🌐 Bridging web infrastructure with cross-platform clients.
 
-📫 **How to reach me:** [Your LinkedIn Link] | [Your Email]
+📫 **How to reach me:** www.linkedin.com/in/marios-magid-03359231a | mariosmagid@gmail.com
