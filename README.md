@@ -19,7 +19,7 @@ I am a mobile application developer specializing in **Flutter**, backed by a str
 | **Core Programming Languages** | `Python` `C++` `C` `Java` |
 | **AI & Machine Learning** | `Neural Networks` `Computer Vision` `Deep Learning` `Model Integration` |
 | **Web Development Foundations** | `JavaScript` `HTML5` `CSS3` |
-| **Tools & Environments** | `Git` `GitHub` `VS Code` `Linux/WSL` |
+| **Tools & Environments** | `Git` `GitHub` `VS Code` `Linux/WSL` `Docker` |
 
 ---
 
