@@ -1,13 +1,13 @@
-# Hi there, I'm Marios👋
+# Hi there, I'm Marios 👋
 
 ### Mobile & Software Developer | Flutter Specialist | AI & Computer Vision Enthusiast
 
-I am a software engineering student passionate about building highly responsive cross-platform mobile apps with **Flutter** and integrating intelligent **Machine Learning** and **Computer Vision** models directly into user-facing applications. 
+I am a mobile application developer specializing in **Flutter**, backed by a strong foundation in core software engineering principles and a deep academic background in **Artificial Intelligence, Machine Learning, and Computer Vision**. My passion lies at the intersection of clean UI/UX and intelligent backend logic—building cross-platform applications that don't just look great, but solve complex problems using smart data.
 
-- 🚀 Core Focus: High-performance Flutter architectures & state management.
-- 🧠 Academic Background: Deep learning, computer vision architectures, and signal processing.
-- ⚙️ Technical Foundations: Lower-level system optimization using C/C++ and core object-oriented structures in Java.
-- 🌐 Expanding Horizons: Building modern full-stack web applications.
+- 🚀 **Core Focus:** Building robust, high-performance cross-platform mobile architectures using Flutter and Dart.
+- ⚙️ **Systems & OOP Foundations:** Leveraging deep training in **C, C++, and Java** for optimized memory management, data structures, and efficient hardware/system interaction.
+- 🧠 **AI & Deep Learning:** Deploying trained machine learning models and computer vision architectures (like image classification and object detection) out of the lab and directly to the palm of a user's hand.
+- 🌐 **Web Ecosystems:** Bridging applications toward full-stack ecosystems using a solid foundation in core web technologies (**HTML5, CSS3, JavaScript**).
 
 ---
 
@@ -15,17 +15,17 @@ I am a software engineering student passionate about building highly responsive 
 
 | Category | Technologies |
 | --- | --- |
-| **Mobile Development** | `Flutter` `Dart` `State Management` `REST APIs` |
-| **Core & Systems Programming** | `C++` `C` `Java` `Python` |
-| **AI & Machine Learning** | `Neural Networks` `Computer Vision` `Deep Learning (CNNs)` |
-| **Web Development** | `JavaScript` `HTML5` `CSS3` |
+| **Mobile & Cross-Platform** | `Flutter` `Dart` `State Management` `REST APIs` |
+| **Core Programming Languages** | `Python` `C++` `C` `Java` |
+| **AI & Machine Learning** | `Neural Networks` `Computer Vision` `Deep Learning` `Model Integration` |
+| **Web Development Foundations** | `JavaScript` `HTML5` `CSS3` |
 | **Tools & Environments** | `Git` `GitHub` `VS Code` `Linux/WSL` |
 
 ---
 
 ### 🔥 What I'm Working On
-- 📱 Optimizing complex state management streams in Flutter apps.
-- 🧠 Connecting trained machine learning models to mobile interfaces for edge processing.
-- 🌐 Bridging web infrastructure with cross-platform clients.
+- 📱 Optimizing real-time data streaming and complex state transitions in Flutter applications.
+- 🧠 Integrating client-side ML models to mobile interfaces for highly responsive edge-processing.
+- 🌐 Expanding my architecture capabilities into modern full-stack web environments.
 
 📫 **How to reach me:** www.linkedin.com/in/marios-magid-03359231a | mariosmagid@gmail.com
