@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**marios889/marios889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mobile & Software Developer | Flutter Specialist | AI & Computer Vision Enthusiast
 
-Here are some ideas to get you started:
+I am a software engineering student passionate about building highly responsive cross-platform mobile apps with **Flutter** and integrating intelligent **Machine Learning** and **Computer Vision** models directly into user-facing applications. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Core Focus: High-performance Flutter architectures & state management.
+- 🧠 Academic Background: Deep learning, computer vision architectures, and signal processing.
+- ⚙️ Technical Foundations: Lower-level system optimization using C/C++ and core object-oriented structures in Java.
+- 🌐 Expanding Horizons: Building modern full-stack web applications.
+
+---
+
+### 🛠️ My Technical Toolkit
+
+| Category | Technologies |
+| --- | --- |
+| **Mobile Development** | `Flutter` `Dart` `State Management` `REST APIs` |
+| **Core & Systems Programming** | `C++` `C` `Java` `Python` |
+| **AI & Machine Learning** | `Neural Networks` `Computer Vision` `Deep Learning (CNNs)` |
+| **Web Development** | `JavaScript` `HTML5` `CSS3` |
+| **Tools & Environments** | `Git` `GitHub` `VS Code` `Linux/WSL` |
+
+---
+
+### 🔥 What I'm Working On
+- 📱 Optimizing complex state management streams in Flutter apps.
+- 🧠 Connecting trained machine learning models to mobile interfaces for edge processing.
+- 🌐 Bridging web infrastructure with cross-platform clients.
+
+📫 **How to reach me:** [Your LinkedIn Link] | [Your Email]
